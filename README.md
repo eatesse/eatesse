@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋
+I’m Elysee, a student and aspiring software engineer based in the UK. I enjoy building practical projects, learning new tools, and improving a little bit each day.
 
-<!--
-**eatesse/eatesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**These days I’m focused on:**
+- Java, Python, and core software engineering fundamentals  
+- Web development and small backend services  
+- Writing cleaner, easier‑to‑understand code and learning from feedback
+---
+#### **Fun Facts:**
+  - WWE fan through and through
+  - Black Clover is my favourite anime
+  - Hobbies: anime, gaming, football
+---
+**Always happy to connect, learn, and collaborate on interesting ideas.**
