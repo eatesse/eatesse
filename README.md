@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m Elysee, a student and aspiring software engineer based in the UK. I enjoy building practical projects, learning new tools, and improving a little bit each day.
+I’m [Elysee](https://www.linkedin.com/in/elysee-tessenana/), a student and aspiring software engineer based in the UK. I enjoy building practical projects, learning new tools, and improving a little bit each day.
 
 **These days I’m focused on:**
 - Java, Python, and core software engineering fundamentals  
